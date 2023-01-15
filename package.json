@@ -9,13 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:mariojgmaster/mj-modules-nodejs-ts-default-1.git"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "modules",
+    "mj",
+    "mariojgmaster"
+  ],
   "author": "Mario Oliveira",
   "license": "ISC",
-  "bugs": {},
-  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/mariojgmaster/mj-modules-nodejs-ts-default-1.git/issues"
+  },
+  "homepage": "https://github.com/mariojgmaster/mj-modules-nodejs-ts-default-1.git#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "cron": "^2.2.0",
