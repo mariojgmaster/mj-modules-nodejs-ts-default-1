@@ -1,7 +1,7 @@
 {
   "name": "mj-modules-nodejs-ts-default-1",
   "version": "1.0.0",
-  "description": "Aplicação que servirá de MiddleWare entre a Skyfii e o Salesforce",
+  "description": "Aplicação servirá como aplicação default para códigos NodeJs",
   "main": "index.js",
   "scripts": {
     "dev": "tsnd --transpile-only --ignore-watch node_modules src/index.ts",
