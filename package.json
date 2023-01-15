@@ -1,6 +1,6 @@
 {
   "name": "mj-modules-nodejs-ts-default-1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Aplicação servirá como aplicação default para códigos NodeJs",
   "main": "index.js",
   "scripts": {
