@@ -17,6 +17,6 @@ import routes from "../routes";
 
 export default function appMiddlewares(app: Express): void {
     app.use(cors());
-    app.use(express.json());
+    app.use(express.json({ limit: '1mb' }));
     app.use(routes);
 }
